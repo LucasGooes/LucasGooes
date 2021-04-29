@@ -13,11 +13,9 @@
 
 <img align="left" width="26px" alt="Eclipse IDE" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
 
-<img align="left" width="26px" alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+<img align="left" width="26px" alt="Spring Framework" src="https://matheuspcarvalhoblog.files.wordpress.com/2018/05/spring-framework.png">
 
-<img align="left" width="26px" alt="Spring Framework" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
-
-<img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+<img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png">
 
 https://simpleicons.org/icons/postman.svg
 
