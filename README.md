@@ -8,7 +8,7 @@
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/hibernate.svg">
 https://simpleicons.org/icons/java.svg
-<img align="left" width="26px" src="https://www.flaticon.com/free-icon/java_226777">
+<img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/eclipseide.svg">
 
