@@ -15,7 +15,7 @@
 
 <img align="left" width="26px" alt="Spring Framework" src="https://matheuspcarvalhoblog.files.wordpress.com/2018/05/spring-framework.png">
 
-<img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png">
+<img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png">
 
 <img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
 
