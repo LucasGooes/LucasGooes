@@ -11,7 +11,13 @@
 
 <img align="left" width="32px" alt="Java" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
 
-<img align="left" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
+<img align="left" width="26px" alt="Eclipse IDE" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
+
+<img align="left" width="26px" alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+
+<img align="left" width="26px" alt="Spring Framework" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+
+<img align="left" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
 
 https://simpleicons.org/icons/postman.svg
 
