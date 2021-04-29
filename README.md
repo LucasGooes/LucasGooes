@@ -7,7 +7,7 @@
 
 
 <img align="left" width="26px" alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg">
-<img align="left" width="26px" alt="Spring Framework" src="https://matheuspcarvalhoblog.files.wordpress.com/2018/05/spring-framework.png">
+<img align="left" width="26px" alt="Spring Framework" src="https://img.icons8.com/color/48/000000/spring-logo.png">
 <img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
 
 
@@ -18,7 +18,9 @@
 
 
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/26/000000/mysql-logo.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.freeiconspng.com/img/11377" />
+<img align="left" alt="SQL Server" width="26px" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" />
+
+
 
 <img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/docker-11-1175228.png">
 <img align="left" width="26px" alt="Postman" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png">
