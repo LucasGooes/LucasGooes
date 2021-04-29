@@ -4,14 +4,14 @@
 
 <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" width="26px" src="https://simpleicons.org/icons/ubuntu.svg">
+<img align="left" width="26px" alt="Linux Ubuntu" src="https://www.flaticon.com/svg/vstatic/svg/888/888879.svg?token=exp=1619719466~hmac=842c8d584d0abd26199f8eebb1a06e9a">
 
-https://simpleicons.org/icons/hibernate.svg
+
 <img align="left" width="26px" alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg">
 
 <img align="left" width="32px" alt="Java" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
 
-<img align="left" width="26px" src="https://simpleicons.org/icons/eclipseide.svg">
+<img align="left" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
 
 https://simpleicons.org/icons/postman.svg
 
