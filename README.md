@@ -1,5 +1,4 @@
 # Hi there, I'm Lucas Marcos :raised_hand::smiley:
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marcos-5396811a2/)
 
 :soccer: 21 anos, natural de Manaus-AM
 
@@ -18,7 +17,7 @@
     </tr>
 </table>
 
-## Languages, IDEs, Frameworks, SGBDs and Tools:
+### Languages, IDEs, Frameworks, SGBDs and Tools:
 
 <img align="left" width="32px" alt="Java" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png">
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
@@ -34,3 +33,6 @@
 <img align="left" width="26px" alt="Postman" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/26/000000/git.png" /><br /><br />
+
+### Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marcos-5396811a2/)
