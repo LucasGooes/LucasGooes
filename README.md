@@ -6,9 +6,10 @@
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/ubuntu.svg">
 
-<img align="left" width="26px" src="https://simpleicons.org/icons/hibernate.svg">
-https://simpleicons.org/icons/java.svg
-<img align="left" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
+https://simpleicons.org/icons/hibernate.svg
+<img align="left" width="26px" alt="Hibernate" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg">
+
+<img align="left" width="32px" alt="Java" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/eclipseide.svg">
 
