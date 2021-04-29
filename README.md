@@ -1,4 +1,10 @@
-# Hi there, I'm Lucas Marcos
+# Hi there, I'm Lucas Marcos :raised_hand: :smiley:
+
+:soccer:21 anos, natural de Manaus-AM
+
+:computer: Backend Developer
+
+:mortar_board: Atualmente cursando o 5º período de Sistemas de Informação.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-marcos-5396811a2/)
 
