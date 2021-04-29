@@ -12,7 +12,7 @@
 
 
 
-<img align="left" width="32px" alt="Java" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619716093~hmac=3459dc11de03f2918675bd4a09fb9523">
+<img align="left" width="32px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v2.png" />
 <img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/26/000000/css3.png" />
 
