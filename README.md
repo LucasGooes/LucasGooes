@@ -17,13 +17,13 @@
 
 <img align="left" width="26px" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/social-275-116309.png">
 
+<img align="left" width="26px" alt="Bootstrap" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png">
+
 https://simpleicons.org/icons/postman.svg
 
 https://simpleicons.org/icons/docker.svg
 
 https://simpleicons.org/icons/spring.svg
-
-https://simpleicons.org/icons/bootstrap.svg
 
 https://simpleicons.org/icons/microsoftsqlserver.svg
 
