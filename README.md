@@ -7,8 +7,8 @@
 <img align="left" width="26px" src="https://simpleicons.org/icons/ubuntu.svg">
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/hibernate.svg">
-
-<img align="left" width="26px" src="https://simpleicons.org/icons/java.svg">
+https://simpleicons.org/icons/java.svg
+<img align="left" width="26px" src="https://www.flaticon.com/free-icon/java_226777">
 
 <img align="left" width="26px" src="https://simpleicons.org/icons/eclipseide.svg">
 
