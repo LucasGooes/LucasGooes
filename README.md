@@ -6,6 +6,8 @@
 
 :mortar_board: Atualmente cursando o 5º período de Sistemas de Informação, Ceuni Fametro.
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LucasGooes&repo=LucasGooes&countColorcountColor)
+
 <table align="center">
     <tr>
         <td>
