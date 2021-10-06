@@ -4,7 +4,7 @@
 
 :computer: Backend Developer
 
-:mortar_board: Atualmente cursando o 5º período de Sistemas de Informação, Ceuni Fametro.
+:mortar_board: Atualmente cursando o 6º período de Sistemas de Informação, Ceuni Fametro.
 
 <table align="center">
     <tr>
