@@ -1,10 +1,10 @@
 # Hi there, I'm Lucas Marcos :raised_hand::smiley:
 
-:soccer: 21 anos, natural de Manaus-AM
+:soccer: 22 anos, natural de Manaus-AM
 
 :computer: Backend Developer
 
-:mortar_board: Atualmente cursando o 6º período de Sistemas de Informação, Ceuni Fametro.
+:mortar_board: Atualmente cursando o 7º período de Sistemas de Informação, Ceuni Fametro.
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LucasGooes&repo=LucasGooes&countColorcountColor)
 
